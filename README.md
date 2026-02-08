@@ -1,16 +1,14 @@
 # Retail Sales Performance Analysis using Power BI
 
-This repository contains the complete project documentation in **PDF format**.
+This repository contains the complete project documentation in PDF format.
 
-## File
-- PROJECT BY 727823TUCS104 (HARINI P).pdf
+## Project Contents
+- Retail Sales Performance Analysis using Power BI (PDF)
+- Dashboard screenshots
+- Final conclusions and insights
 
-## Description
-The PDF includes:
-- Data cleaning and validation steps  
-- Sales and profit analysis  
-- Regional and product-wise performance insights  
-- Power BI dashboard screenshots  
-- Final conclusions and recommendations  
+## How to View the Project
+Click the PDF file above to preview it directly in GitHub, or download it for detailed viewing.
 
-Please open the PDF file to view the full analysis and results.
+## GitHub Repository Link
+https://github.com/harinihannah106/Retail-Sales-Performance-Analysis-using-Power-BI
